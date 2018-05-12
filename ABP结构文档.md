@@ -1,0 +1,64 @@
+# ABP结构
+
+1. 文件夹结构
+- Application 应用程序
+- Aspects 面向切面
+- Auditing 审计
+- Authorization 授权
+- BackgroundJobs 后台任务
+- Collections 集合
+- Configuration 配置项
+- Data 数据
+- Denpendency 依赖
+- Domain 领域
+- EntityHistory 实体历史
+- Events 事件
+- Extensions 拓展
+- IO 输入/输出
+- Json Json处理
+- Linq Linq处理
+- Localization 本地化
+- Logging 日志
+- Modules 模块
+- MultiTenancy 多租户技术
+- Net 互联网
+- Notification 通知
+- ObjectMapping 物体映射
+- Orm 对象关系映射
+- Plugin 插件
+- Realtime 实时 
+- Reflection 反射
+- Resources 资源
+- Runtime 运行时
+- Specifications 规格
+- Text 文本
+- Threading 线程
+- Timing 计时
+- Transactions 事务
+- UI UI
+- Utils 工具类
+- Web Web相关
+- Xml Xml相关
+
+2. 单文件
+- AbpBootStrapper 引导程序
+- AbpBootStrapperOptions 引导选项
+- AbpConsts 常量
+- AbpException 异常
+- AbpIntializationException 初始化异常
+- AbpKernelModule 内核模块
+- ServiceBase 服务基类
+- Check 检查注释
+- DisposeAction 释放方法
+- IGuidGenerator Guid算法接口
+- IHasErrorCode 错误代码接口
+- IShouldInitalize 需要初始化接口
+- IUserIdentifier 用户认证接口
+- NamedTypeSelector 类选择器
+- NamedTypeSelectorListExtension 类选择器列表拓展
+- NameValue 键值对
+- RandomHelper 随机数帮助类
+- RegularGuidGenerator 规律GUID产生器
+- SequentialGuidGenerator 有序GUID产生器
+- UserIdentifier 用户认证
+- UserIdentifierExtensions 用户认证拓展
