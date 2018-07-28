@@ -20,7 +20,7 @@ pacman -S archlinux-keyring
 sudo rm -rf /etc/pacman.d/gnupg
 # 初始化pacman的keys
 sudo pacman-key --init
-# 加载签名的keys
+# 加载签名的keys  
 sudo pacman-key --populate archlinux manjaro
 # 刷新升级已经签名的keys
 sudo pacman-key --refresh-keys
